@@ -1,0 +1,50 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    margin-right: 10%;
+  margin-left: 10%;
+  background-color: #a7d8f4;
+  }
+header {
+    background-color: rgb(170, 170, 170);
+    color: rgb(252,228,140)
+    padding 100px 200px 200px 100px;
+  }
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+    padding:50px;
+  } 
+nav ul li a {
+    color:black;
+    text-decoration-color: #ee0909;
+  }
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    
+  }
+#home img {
+    width: 500px;
+    height: 500px;
+    border-radius: 100%;
+  }
+#portfolio{
+    background-color: rgb(156, 156, 156);
+    padding: 0px 100px 0px 100px;
+    border-radius:30px;
+  }
+  .a{
+    background-color: rgb(142, 142, 142);
+    padding-right:100px;
+    padding-left:100px
+  }
+li{
+    display: flex;
+    text-decoration-color: #ee0909;
+    
+  }
+h1{
+    color: #000000;
+}
